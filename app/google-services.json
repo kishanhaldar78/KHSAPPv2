@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "852965720113",
+    "firebase_url": "https://khsmall.firebaseio.com",
+    "project_id": "khsmall",
+    "storage_bucket": "khsmall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852965720113:android:acb00ccfdf78d0aa475510",
+        "android_client_info": {
+          "package_name": "com.example.khsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852965720113-8konhh1897qnl2eok8sqn7s38sln4lil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE9u8n4W9CBDsy9q2e8j0oGqwsvkfSK8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852965720113-8konhh1897qnl2eok8sqn7s38sln4lil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
